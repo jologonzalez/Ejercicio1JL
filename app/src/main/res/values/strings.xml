@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio1JL</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Correo">Correo Electronico</string>
+    <string name="Enviar">Enviar Datos</string>
+</resources>
